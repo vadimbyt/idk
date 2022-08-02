@@ -1,0 +1,16 @@
+body {
+    background-image: url(./img/открой.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 950%;
+}
+
+.lul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color: aquamarine;
+}
